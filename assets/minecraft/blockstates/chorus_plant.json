@@ -1,0 +1,17 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "block/custom/poop_crop"
+            },
+            "when": {
+				"north": false,
+				"south": false,
+				"east": false,
+				"west": false,
+				"up": false,
+				"down": false
+			}
+        }
+    ]
+}
